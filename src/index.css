@@ -1,0 +1,85 @@
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.gap-4 {
+  gap: 16px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+/* // md -> 6px
+// ->4px
+// sm -> 2px
+// lg -> 8px */
+
+.border {
+  border-width: 1px;
+}
+
+.border-black {
+  border-color: black;
+}
+.rounded-md {
+  border-radius: 6px;
+}
+
+.border-solid {
+  border-style: solid;
+}
+
+.px-4 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.py-3 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.min-w-40 {
+  min-width: 160px;
+}
+.justify-center {
+  justify-content: center;
+}
+
+.bg-red {
+  background-color: red;
+}
+.text-white{
+  color: white;
+}
+
+.border-none{
+  border: none;
+}
+
+.outline-none{
+  outline: none;
+}
+
+.mb-10{
+  margin-bottom: 40px;
+}
+
+.bg-blue{
+  background: blue;
+}
